@@ -1,5 +1,4 @@
-### Hi , I am Nilav Patel 👋
-
+![img](https://github.com/NilavPatel/nilavpatel/blob/main/159765213889523.jpg)
 - 🔭 I’m currently working as software engineer.
 - 🌱 I’m currently learning angular and asp.net core.
 - 💬 Ask me about anything in angular
