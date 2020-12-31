@@ -5,6 +5,6 @@
 - 💬 Ask me about anything in angular
 - 📫 How to reach me: nilavpatel1992@gmail.com
 - :closed_book: Check my angular components library at https://github.com/NilavPatel/np-ui-package
-- :green_book: Check my angular adin panel at https://github.com/NilavPatel/Ng-Prime
+- :green_book: Check my angular admin panel at https://github.com/NilavPatel/Ng-Prime
 - :orange_book: Check .net ORM at https://github.com/NilavPatel/MyORM
 - :blue_book: Check .net guard pattern at https://github.com/NilavPatel/Guard-Pattern
