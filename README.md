@@ -1,4 +1,4 @@
-![img](https://github.com/NilavPatel/nilavpatel/blob/main/nilavpatel_back.jpg)
+![img](https://github.com/NilavPatel/nilavpatel/blob/main/LinkedIn-cover2.png)
 
 - 🔭 I’m currently working as software engineer.
 - 🌱 I’m currently learning Angular and Asp.net core.
