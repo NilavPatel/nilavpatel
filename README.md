@@ -1,6 +1,6 @@
 ![img](https://github.com/NilavPatel/nilavpatel/blob/main/LinkedIn-cover2.png)
 
-- 🔭 I’m currently working as software engineer.
+- 🔭 I’m currently working as a Software Engineer.
 - 🌱 I’m currently learning Angular and Asp.net core.
 - 💬 Ask me about Angular, Asp.net Core
 - :e-mail: How to reach me: nilavpatel1992@gmail.com
